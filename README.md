@@ -16,7 +16,11 @@ Main function to implement huffman coding
 calculate frequency of occurence
 ### Step5:
 print the characters and its huffmancode
- 
+
+```
+NAME : ADHITHYARAM D
+REG NO : 212222230008
+``` 
 ## Program:
 # Get the input String
 ```python
